@@ -20,7 +20,7 @@ Portfolio 2 is a simple react typescript app to display three cards for three pr
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Mindless-dev.git
+git clone https://github.com/Mindless-dev/2022-05-30_Portfolio2_CA_kenny_andre_holmen.git
 ```
 
 2. Install the dependencies:
