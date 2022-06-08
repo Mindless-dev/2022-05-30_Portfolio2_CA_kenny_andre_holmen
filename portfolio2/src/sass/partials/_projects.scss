@@ -6,6 +6,10 @@
   color: white;
   border-radius: 0 16px;
   box-shadow: 4px 0px 6px darken(rgb(71, 90, 97), 10);
+
+  p {
+    min-height: 150px;
+  }
   img {
     max-width: 100%;
   }

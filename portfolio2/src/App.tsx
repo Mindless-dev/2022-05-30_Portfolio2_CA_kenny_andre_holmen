@@ -6,13 +6,13 @@ import "./sass/style.scss";
 function App() {
   return (
     <>
-
       <MainHeading headingType="mainHeading">Portfolio 2 Course Assignment</MainHeading>
       <Layout>
         <Project
           title="Project Exam 2"
-          description=" A Accomodation booking website, where users can make enquiries for accomodations, contact the admin via a contact form
-           and search for accomodations. Admin users can see the enquires being made and contact messages and create new accomodations for the site."
+          description=" Holidaze is an Accommodation booking website, where users can make enquiries for accommodations, 
+          contact the admin via a contact form and search for accommodations. 
+          Admin users can see the enquires being made and contact messages and create new accommodations for the site. Written in Next js and Scss."
           website="https://holidazebergen.vercel.app/"
           github="https://github.com/Noroff-FEU-Assignments/project-exam-2-Mindless-dev"
           image="https://res.cloudinary.com/dmypm1x6b/image/upload/v1654624695/portofolio%202/holidaze_t92jag.jpg"
@@ -20,9 +20,9 @@ function App() {
         />
         <Project
           title="Semester Project 2"
-          description="Shoeyverse is an ecommerce Shoe store, created for an exam in my studies to become a front-end dev.
-          Users can add items to the cart, search for products and remove items from the cart.
-          Admin Users can log in and create, update and delete products of the page."
+          description="Shoeyverse is an eCommerce Shoe store, where users can add items to the cart, 
+          search for products add and remove items from the cart. Admin Users can log in to oversee products, 
+          Admin Users can also create, update and delete products. Written with Html, Javascript, and Scss."
           website="https://shoeyverse.netlify.app/index.html"
           github="https://github.com/Mindless-dev/2021-11-22_semester_project_kenny_andre_holmen"
           image="https://res.cloudinary.com/dmypm1x6b/image/upload/v1654624708/portofolio%202/shoeyverse_gazj8h.jpg"
@@ -30,9 +30,9 @@ function App() {
         />
         <Project
           title="JS Frameworks CA"
-          description="Simple Next js project with 4 pages Home page which displays data from an api.
-          contact form with form validation using react hook form and yup.
-          Log in page sending log in credentials to rest api when sucessfull returns information to rest api returning a jwt token."
+          description="Simple Next js project with 4 pages Home page which displays data from an API. 
+          Contact form with form validation using react hook form and yup. Log in page sending log-in 
+          credentials to rest API when successful returns information to rest API returning a jwt token. Written with Next js and Scss."
           github="https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Mindless-dev"
           image="https://res.cloudinary.com/dmypm1x6b/image/upload/v1654624701/portofolio%202/JSframeworksca_cqypik.jpg"
           alt="a preview of the Js Frameworks CA project"
